@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Martinez</h1>
 <h3 align="center">A Front end developer from Colombia</h3>
-<p>I am a systems engineer with experience as a web developer. With skills in HTML, CSS, Sass and JavaScript, I have worked on projects using Angular and React to create intuitive and engaging user experiences. Additionally, I am familiar with back-end application development using Node.js and MySQL, as well as creating smart contracts in Solidity. I am continuously looking for opportunities to expand my skills and knowledge in the technology field.</p>
+<p>I am a systems engineer with experience as a web developer. With skills in HTML, CSS, Sass and JavaScript, I have worked on projects using Angular and React to create intuitive and engaging user experiences. Additionally, as well as creating smart contracts in Solidity. I am continuously looking for opportunities to expand my skills and knowledge in the technology field.</p>
 
 Translated with DeepL.com (free version)</h3>
 
