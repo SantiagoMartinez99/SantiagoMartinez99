@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React-TypeScript**
 
-- 🌱 I’m currently working on: **¡ANOUNCING SOON!**🤫
+- 🌱 I’m currently working on: **¡ANOUNCING SOON! 🤫**
 
 - ⚡ Fun fact **I love tetris**
 
