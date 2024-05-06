@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **React-TypeScript**
 
+- 🌱 I’m currently working on: ¡ANOUNCING SOON!🤫
+
 - ⚡ Fun fact **I love tetris**
 
 - 📫 How to reach me **sm307560@gmail.com**
