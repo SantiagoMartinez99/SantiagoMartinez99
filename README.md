@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagomartinez99&label=Profile%20views&color=0e75b6&style=flat" alt="santiagomartinez99" /> </p>
 
-- 🌱 I’m currently learning **React-TypeScript**
+- 🌱 I’m currently learning **Node.js/Express**
 
-- 🌱 I’m currently working on: **¡ANOUNCING SOON! 🤫**
+- 🌱 I’m currently working on: **CoRunning (Beta)**
 
 - ⚡ Fun fact **I love tetris**
 
