@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node.js/Express**
 
-- 🌱 I’m currently working on: **CoRunning (Beta)**
+- 🌱 I’m currently working on: **Periferia IT/Personal Projects/CoRunning (Beta)**
 
 - ⚡ Fun fact **I love tetris**
 
